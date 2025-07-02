@@ -1,0 +1,29 @@
+{
+  "name": "env-sync-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to auto-generate and sync .env.example from .env",
+  "main": "index.js",
+  "bin": {
+    "envsync": "./index.js"
+  },
+  "keywords": [
+    "dotenv",
+    "env",
+    "environment",
+    "cli",
+    "sync",
+    "envsync",
+    "dotenv-sync",
+    "env-example",
+    "generate-env-example",
+    "configuration",
+    "developer-tool"
+  ],
+  "author": "Codehouze",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "chokidar": "^4.0.3",
+    "dotenv": "^17.0.1"
+  }
+}
