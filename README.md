@@ -19,7 +19,7 @@
 
 ````bash
 npm install env-sync-cli-tool
-```
+````
 
 Or globally:
 ```bash
